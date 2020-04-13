@@ -1,0 +1,3 @@
+rootProject.name='Demouuu'
+include ':app'
+include ':server'

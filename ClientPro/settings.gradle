@@ -1,0 +1,3 @@
+rootProject.name='ClientPro'
+include ':app'
+include ':lib'
